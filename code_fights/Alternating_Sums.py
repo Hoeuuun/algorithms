@@ -23,5 +23,4 @@ def alternatingSums(a):
         #print i, i % 2, answer
     return answer
 
-
 print alternatingSums(a)
