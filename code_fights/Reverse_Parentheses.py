@@ -1,5 +1,5 @@
 """
-CD.13
+CF.13
 
 You have a string s that consists of English letters, punctuation marks,
 whitespace characters, and brackets. It is guaranteed that the parentheses in
